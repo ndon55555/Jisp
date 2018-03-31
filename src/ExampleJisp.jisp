@@ -1,0 +1,22 @@
+1
+"a"
+true
+false
+
+'bob
+
+(* (/ (- (+ 1 2 3 (+ (+ 3 1) 4)
+         (+ 2 2)) 31) 6)8)
+
+(string-append "hey" "there"  "m8y")
+
+~
+(cons 1 ~)
+(cons 1 (cons 'a4 (cons "hi" (cons ~ (cons ~ ~)))))
+(and true)
+(and true false)
+(and true true true)
+(and true true false)
+(or false)
+(or true)
+(or false true)
